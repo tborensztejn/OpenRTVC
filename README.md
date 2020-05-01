@@ -20,7 +20,7 @@ There are multiples PDF files about the theorical part of this project. The main
   - 2x 5mm x 14mm steel axis (Cut it with Dremel)
   - 2x 5mm x 9mm steel axis (Cut it with Dremel)
   - 4x TBHC M3x10mm screw
-  - 4x no-head M3x4mm screw
+  - 4x no-head/set/grub M3x4mm screw
 
 # Notes:
 This TVC system is designed for cardboard 80mm internal diameter tube. It's necessary to cut 2 holes for servos.
