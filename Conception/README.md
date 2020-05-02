@@ -4,7 +4,7 @@ This folder contains all the theoretical design of OpenRTVC project. I thank my 
 # Version française
 Ce dossier contient toute l'étude théorique du projet OpenRTVC. Je remercie mon professeur de physique pour son aide en corrigeant certaines erreurs mathématiques et en me donnant plusieurs conseils pour réaliser ce projet. Je travaille sur ce projet avec un autre étudiant et nous avons travaillé ensemble pour résoudre un problème mécanique concernant la cinématique du système TVC. L'objectif était d'exprimer l'angle à appliquer au servomoteur en fonction de l'angle d'inclinaison du moteur de fusée. Nous remercions également son professeur pour son aide.
 
-Authors / Auteurs:
+## Authors / Auteurs:
   - BORENSZTEJN Titouan
   - PERINETTI Dylan
 
