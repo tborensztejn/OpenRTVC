@@ -36,7 +36,7 @@ OpenRTVC est un projet opensource consistant à fabriquer un système de correct
 Plusieurs fichiers PDF manuscrits concernant l'aspect théorique de ce projet son disponibles. Ce travail concerne principalement la recherche d'une fonction de tranfert permettant de mettre en relation l'angle d'inclinaison de la fusée et l'angle du moteur fusée. Le modèle établit est en 2D. En partant de l'hypothèse que le roulis et le tangage de la fusée soient correctement corrigés simultanément et indépendament l'un de l'autre par le programme embarqué, le modèle 2D semble ne pas être une mauvaise approche. Pour ceux faire, deux asservissements de type PID devront être intégrés au programme. L'attitude de la fusée sera mesurée par une centrale inertielle placée en son centre de gravité. Une fois le modèle élaboré et la fonction de transfert trouvée, l'étape suivante a été de faire une simulation sous Matlab 2017 afin de déterminer les coefficients approximatifs de réglage du correcteur PID. Ces valeurs dépendent du moment d'inertie de la fusée sur l'axe en question, de la poussée moyenne du moteur et de la distance entre le point d'application de la force de poussée et le centre de gravité de la fusée. Les autres documents concernent la recherche d'une méthode de mesure du moment d'inertie de sa fusée avec des moyens simples et également la résolution d'un problème mécanique concernant la cinématique du système d'orientation du moteur (système TVC).
 
 ## Matériel électronique:
-  - Une centrale inertielle MPU9250 (3 accéléromètres 3 gyroscopes et 3 magnétomètres)
+  - Une centrale inertielle MPU9250 (3 accéléromètres, 3 gyroscopes et 3 magnétomètres)
   - Un baromètre BMP180
   - Un module SPI lecture/écriture de carte SD
   - Un module de télémétrie série
