@@ -1,5 +1,5 @@
 The simulations on Matlab 2017 were carried out for a rocket equipped with this equipment:
-  - A 100N average thrust motor
+  - A 10N average thrust motor
   - A moment of inertia around roll and pitch (supposed to be identical symmetrical and homogeneous car) of 0.09 kg / m²
   - A distance of 0.3 m between the point of application of the thrust and the center of gravity of the rocket
 

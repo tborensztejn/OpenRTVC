@@ -1,0 +1,176 @@
+{
+  "uuid": "57bad6f73cb985b737ab9a10fcb90851",
+  "path": "Offline/OpenRTVC_Allumage_Moteur",
+  "name": "OpenRTVC_Allumage_Moteur",
+  "content": "",
+  "created_at": "2020-06-16 15:10:50",
+  "updated_at": "2020-06-26 10:36:04",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "f7eb9c2b218ddc149a71f549a237acca",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "493c37b31335cee71a6923d9c01da200": 1,
+        "5197eb2f389c4639963a16ab68c782f8": 1,
+        "36be002046ee442daec3a30b0f22c9fe": 6,
+        "3ec77201bbcd4ecd8722658d581a4e60": 1,
+        "4755a6afbf143ee9fc7959cbdf03a4ff": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "HDR-F-2.54_1x2",
+          1,
+          "HDR-M-2.54_1X2",
+          "H1",
+          {
+            "BOM_Supplier Part": "C49661",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "70aa5812f21f4991bf427395d51849f4",
+            "uuid": "3ec77201bbcd4ecd8722658d581a4e60"
+          }
+        ],
+        [
+          "1k",
+          1,
+          "R_AXIAL-0.4",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "5905db98cde4487fbb177070aa85bbe1",
+            "uuid": "36be002046ee442daec3a30b0f22c9fe"
+          }
+        ],
+        [
+          "4k7",
+          1,
+          "R_AXIAL-0.4",
+          "R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "5905db98cde4487fbb177070aa85bbe1",
+            "uuid": "36be002046ee442daec3a30b0f22c9fe"
+          }
+        ],
+        [
+          "10k",
+          3,
+          "R_AXIAL-0.4",
+          "R3,R4,R5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "5905db98cde4487fbb177070aa85bbe1",
+            "uuid": "36be002046ee442daec3a30b0f22c9fe"
+          }
+        ],
+        [
+          "100",
+          1,
+          "R_AXIAL-0.4",
+          "R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "5905db98cde4487fbb177070aa85bbe1",
+            "uuid": "36be002046ee442daec3a30b0f22c9fe"
+          }
+        ],
+        [
+          "IRF540NPBF",
+          1,
+          "TO-220-3_L10.0-W4.5-P2.54-L",
+          "Q1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "Infineon",
+            "BOM_Manufacturer Part": "IRF540NPBF",
+            "BOM_Supplier Part": "C2566",
+            "puuid": "948e610cffd14df79f04c73832b1409b",
+            "uuid": "493c37b31335cee71a6923d9c01da200"
+          }
+        ],
+        [
+          "WJ301V-5.0-2P",
+          2,
+          "CONN-TH_2P-P5.00_WJ301V-5.00-2P",
+          "P1,P2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ReliaPro",
+            "BOM_Manufacturer Part": "WJ301V-5.0-2P",
+            "BOM_Supplier Part": "C8475",
+            "puuid": "095c98d119cf4f3089d4e82d07b27c72",
+            "uuid": "4755a6afbf143ee9fc7959cbdf03a4ff"
+          }
+        ],
+        [
+          "2N3904",
+          1,
+          "TO-92-3_L5.1-W4.1-P1.27-L",
+          "Q2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "SEMTECH",
+            "BOM_Manufacturer Part": "2N3904",
+            "BOM_Supplier Part": "C118538",
+            "puuid": "6a8cc0d167d04926a8ac5a757ba65780",
+            "uuid": "5197eb2f389c4639963a16ab68c782f8"
+          }
+        ]
+      ],
+      "updateTime": 1593160564,
+      "createTime": 1592314030,
+      "histories": [],
+      "created_at": "2020-06-16 15:27:10",
+      "updated_at": "2020-06-26 10:36:04"
+    },
+    {
+      "uuid": "f916a3aaad8cd36fdb1ed9ae3b31f01b",
+      "puuid": "57bad6f73cb985b737ab9a10fcb90851",
+      "title": "PCB_2020-06-16_15-46-30",
+      "filename": "PCB_2020-06-16_15-46-30.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "70aa5812f21f4991bf427395d51849f4": 1,
+        "095c98d119cf4f3089d4e82d07b27c72": 2,
+        "948e610cffd14df79f04c73832b1409b": 1,
+        "6a8cc0d167d04926a8ac5a757ba65780": 1,
+        "5905db98cde4487fbb177070aa85bbe1": 6
+      },
+      "BOM": [],
+      "updateTime": 1593160562,
+      "createTime": 1592315190,
+      "histories": [],
+      "created_at": "2020-06-16 15:46:30",
+      "updated_at": "2020-06-26 10:36:02"
+    }
+  ],
+  "sort": [],
+  "title": "OpenRTVC_Allumage_Moteur",
+  "foldername": "OpenRTVC_Allumage_Moteur",
+  "schfilename": "OpenRTVC_Allumage_Moteur.json",
+  "schfilemtime": 1593160564466
+}
